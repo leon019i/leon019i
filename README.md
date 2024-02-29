@@ -22,6 +22,7 @@ Currently, I'm working as a Software Quality Tester, where I ensure the reliabil
 [![Django](https://img.shields.io/badge/Django-Expert-blue)](https://www.djangoproject.com)
 [![Angular](https://img.shields.io/badge/Angular-Basic-red)](https://angular.io)
 [![Java](https://img.shields.io/badge/Java-Expert-orange)](https://www.java.com)
+[![Node.js](https://img.shields.io/badge/Node.js-Basic-green?logo=node.js)](https://nodejs.org/)
 
 
 <h3 align="left">Languages and Tools:</h3>
